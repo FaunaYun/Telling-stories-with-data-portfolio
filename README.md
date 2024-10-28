@@ -11,7 +11,7 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  My name is Yun Zeng, a current 2nd year MSPPM student at CMU. I hope I can gain data visualization skills and data narratives in this class to better prepare for my future career and study.
+Hi!  My name is Yun Zeng (she/her), a current 2nd year MSPPM student at CMU. I hope I can gain data visualization skills and data narratives in this class to better prepare for my future career and study.
 
 # What I hope to learn
 1. How different chart types serve different analytical purposes
