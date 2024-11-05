@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://faunayun.github.io/Telling-stories-with-data-portfolio/)
 - This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/FaunaYun/Telling-stories-with-data-portfolio)
