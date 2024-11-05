@@ -1,13 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
+# Assignment: Visualizing government debt using Tableau
 Text here!
 
 _As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
+![export-2024-11-05T00_57_35 821Z](https://github.com/user-attachments/assets/59b09df5-dbf7-4095-a6fd-e5a900e27e95)
+online visualization: https://www.oecd.org/en/data/indicators/general-government-debt.html
 
-_Include your visualization, and introduce us to what you did._
+I selected the 2022 as the single year for governments debt-to-GDP ratio graph, which shows the gross government debt as a percentage of GDP of various countries in 2022. The countries are listed along the horizontal axis, while the vertical axis represents the percentage of GDP. Japan has the highest debt ratio.
 
 ## Working with Tableau
 
