@@ -2,7 +2,7 @@
 
 # Assignment: Visualizing government debt using Tableau
 
-link: https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt
+web link: https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt
 
 ## Part one: Working with web-based visualization tools and data
 ![export-2024-11-05T00_57_35 821Z](https://github.com/user-attachments/assets/59b09df5-dbf7-4095-a6fd-e5a900e27e95)
