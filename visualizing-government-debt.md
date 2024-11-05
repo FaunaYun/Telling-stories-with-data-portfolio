@@ -10,8 +10,6 @@ online visualization: https://www.oecd.org/en/data/indicators/general-government
 I selected the 2022 as the single year for governments debt-to-GDP ratio graph, which shows the gross government debt as a percentage of GDP of various countries in 2022. The countries are listed along the horizontal axis, while the vertical axis represents the percentage of GDP. Japan has the highest debt ratio.
 
 ## Working with Tableau
-
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1730772421384');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
