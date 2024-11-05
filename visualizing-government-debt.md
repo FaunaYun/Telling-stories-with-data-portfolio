@@ -46,10 +46,6 @@ Bubble Chart: This image shows a bubble chart visualization of Debt-to-GDP ratio
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
-
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
-
+Line Chart: The line chart tracks Debt-to-GDP ratios for seven major economies (Japan, Italy, USA, France, Canada, Australia, and Mexico) from 1995 to 2019. Japan stands out dramatically with the highest ratio and steepest increase, climbing from around 100% in 1995 to nearly 240% by 2019. Most countries show a notable inflection point around 2008-2009 during the global financial crisis, after which their debt ratios increased significantly. Italy maintains the second-highest position, rising from about 120% to 155% over the period, while the United States and France follow similar upward trajectories, ending around 130-140%. Canada and Australia maintain more moderate ratios throughout, with Canada staying relatively stable around 100% and Australia showing the lowest ratio among these nations, though still gradually increasing from about 40% to 70% over the period. Mexico, despite being an emerging economy, maintains relatively stable and lower debt ratios, hovering between 40-60% throughout the timeframe.
 
 
