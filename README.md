@@ -1,7 +1,7 @@
 | [home page](https://faunayun.github.io/Telling-stories-with-data-portfolio/) | [visualizing debt](https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: [https://faunayun.github.io/Telling-stories-with-data-portfolio/)
-- This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/FaunaYun/Telling-stories-with-data-portfolio)
+- This repository: (https://github.com/FaunaYun/Telling-stories-with-data-portfolio)
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
