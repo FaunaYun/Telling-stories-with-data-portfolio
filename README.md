@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 - Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://faunayun.github.io/Telling-stories-with-data-portfolio/)
 - This repository: [https://github.com/cmustudent/tswd-portfolio-templates/](https://github.com/FaunaYun/Telling-stories-with-data-portfolio)
@@ -23,7 +23,7 @@ Hi!  My name is Yun Zeng (she/her), a current 2nd year MSPPM student at CMU. I h
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
