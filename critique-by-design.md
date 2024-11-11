@@ -40,7 +40,7 @@ Results:
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|Can you tell me what you think this is?          |             |             |
+|Can you telThis is a dataData visualization of trends about several AI models. There are time trends as well as regional distributions across US. There are changes and distributions of specific numbers in different regions, as well as percentages of search interest within a region. visualization of AI image models. And there are three models (Midjourney, Dalle, and Stable Diffusion). There are some bar charts, line charts, pie charts and also maps.l me what you think this is?          |             |             |
 |          |             |             |
 |          |             |             |
 
