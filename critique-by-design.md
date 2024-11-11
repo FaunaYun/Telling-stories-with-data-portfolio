@@ -42,9 +42,7 @@ Results:
 |----------|-------------|-------------|
 |Can you tell me what you think this is? |This is a data visualization of AI image models. And there are three models (Midjourney, Dalle, and Stable Diffusion). There are some bar charts, line charts, pie charts and also maps.| Data visualization of trends about several AI models. There are time trends as well as regional distributions across US. There are changes and distributions of specific numbers in different regions, as well as percentages of search interest within a region. |
 |Can you describe to me what this is telling you? |The search trend of these models and the geographical distribution of search interest across the U.S..It seems that there is more searches on the east and west coasts about image models. And Dalle seems to be the first AI image models that came out as there was an early peak in search. | It looks like the Dalle is the most popular model as it has had high absolute numbers on searches. The distribution of searches for three different models have similar patterns geographically.|
-|Is there anything you find surprising or confusing?| * Why does Dalle have so much search in the beginning and other models don't?
-* Why Alaskan people search so much about Dalle?
-* Why does Dalle seem to be the most searched for, but has a lower average percentage within the region than Midjourney?
+|Is there anything you find surprising or confusing?| * Why does Dalle have so much search in the beginning and other models don't? Why Alaskan people search so much about Dalle? Why does Dalle seem to be the most searched for, but has a lower average percentage within the region than Midjourney?
 |Hawaii also has a relatively high search number.|
 |Who do you think is the intended audience for this?|Marketing department of these AI companies when they’re drafting policies for different regions.|AI model users. AI model developers.|
 
