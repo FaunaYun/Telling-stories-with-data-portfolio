@@ -49,7 +49,14 @@ Results:
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Feedback Patterns:
+Understanding: Both interviewees accurately interpreted the data on search trends and regional distribution of AI models.
+Usability Issues: Both noted label readability and clutter, especially in stacked bar charts and map details.
+Audience Ambiguity: The intended audience (marketers vs. AI users/developers) was not immediately clear.
+
+Design Changes:
+Improve Label Visibility: Bold or recolor labels on the bar chart; simplify maps by removing excess details.
+Streamline Charts: Remove redundant numbers from the stacked bar chart, focusing only on relative shares.
 
 ## Step five: build the solution
 
