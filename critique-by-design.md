@@ -5,8 +5,6 @@ Web link: https://faunayun.github.io/Telling-stories-with-data-portfolio/critiqu
 
 ## Step one: the visualization
 
-Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 Link: https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng
 
 This data visualization is about the trends of three dominant AI image models on Google search, by exploring how often they are searched for and how they are distributed in different regions. 
