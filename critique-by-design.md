@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique by Design with Tableau
-Web link:
+Web link: https://faunayun.github.io/Telling-stories-with-data-portfolio/critique-by-design
 
 ## Step one: the visualization
 
