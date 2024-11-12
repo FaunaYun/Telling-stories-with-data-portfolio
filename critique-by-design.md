@@ -9,10 +9,15 @@ Include paragraph or two on why you selected this particular data visualization.
 
 Link: https://trends.google.com/trends/explore?date=2022-01-01%202024-02-16&geo=US&q=Midjourney,Stable%20Diffusion,DALL%20E&hl=eng
 
+This data visualization is about the trends of three dominant AI image models on Google search, by exploring how often they are searched for and how they are distributed in different regions. 
+
+By exploring how often they are searched for and how they are distributed across different regions, it is clear where people are most concerned about AI models and trends, in which regions each of the three models is most popular, and also which model is most popular within a particular region. This is meaningful information for tech or AI people. Product managers can discover where their company's products are most likely to be popular, and where they are relatively popular. Marketing people can also use these insights to develop and adjust their marketing plans/programs.
+
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-
-
+![Screenshot 2024-11-11 at 22 51 56](https://github.com/user-attachments/assets/44ef4346-fbae-42eb-926d-1e9b67061069)
+![Screenshot 2024-11-11 at 22 52 05](https://github.com/user-attachments/assets/21067042-52cc-4393-a82e-1f9dbec1f5c6)
+![Screenshot 2024-11-11 at 22 52 16](https://github.com/user-attachments/assets/0fbbae73-d16a-4121-a948-d226c6b6f946)
+![Screenshot 2024-11-11 at 22 52 21](https://github.com/user-attachments/assets/c2a716b8-f816-4f8c-ab5f-2cef0652bcdb)
 
 ## Step three: Sketch a solution
 <div class='tableauPlaceholder' id='viz1731366938325' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C4&#47;C4QWNCXRK&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;C4QWNCXRK' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;C4&#47;C4QWNCXRK&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
