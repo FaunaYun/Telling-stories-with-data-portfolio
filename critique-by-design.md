@@ -48,7 +48,6 @@ Results:
 
 
 Synthesis: 
-
 Feedback Patterns:
 Understanding: Both interviewees accurately interpreted the data on search trends and regional distribution of AI models.
 Usability Issues: Both noted label readability and clutter, especially in stacked bar charts and map details.
@@ -61,4 +60,55 @@ Streamline Charts: Remove redundant numbers from the stacked bar chart, focusing
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+<div class='tableauPlaceholder' id='viz1731379044787' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SJ&#47;SJ8D4BB3B&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;SJ8D4BB3B' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SJ&#47;SJ8D4BB3B&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731379044787');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1016px';vizElement.style.height='991px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<div class='tableauPlaceholder' id='viz1731379162792' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M7&#47;M72DC2X63&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;M72DC2X63' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;M7&#47;M72DC2X63&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731379162792');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1016px';vizElement.style.height='991px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<div class='tableauPlaceholder' id='viz1731379198583' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;7K&#47;7KZRJF3MY&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;7KZRJF3MY' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;7K&#47;7KZRJF3MY&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731379198583'); 
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1016px';vizElement.style.height='991px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<div class='tableauPlaceholder' id='viz1731379226363' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ai&#47;Aiimagemodelsgoogletrend&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Aiimagemodelsgoogletrend&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ai&#47;Aiimagemodelsgoogletrend&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731379226363');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1016px';vizElement.style.height='991px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+<div class='tableauPlaceholder' id='viz1731379262306' style='position: relative'><noscript><a href='#'><img alt='AI Image Models Google Trend ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2G&#47;2GFBHDZFK&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;2GFBHDZFK' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;2G&#47;2GFBHDZFK&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-CN' /><param name='filter' value='publish=yes' /></object></div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1731379262306');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='1016px';vizElement.style.height='991px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 
