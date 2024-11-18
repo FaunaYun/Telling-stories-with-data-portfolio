@@ -14,23 +14,18 @@ The analysis might reveal a nuanced story where factors such as education level 
 > A project structure
 > Target Audience Personas
 
-Policy Makers
+1. Policy Makers
 
  Need: Understanding housing inequality patterns
  Goal: Develop effective housing policies
  Challenge: Balancing multiple stakeholder interests
 
-Urban Researchers
+2. Urban Researchers
 
  Need: Data-driven insights about housing and mobility
  Goal: Identify patterns and trends
  Challenge: Accessing comprehensive data analysis
 
-Housing Advocates
-
- Need: Evidence for advocacy
- Goal: Promote housing equity
- Challenge: Making complex data accessible
 
 Text here...
 
