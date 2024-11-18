@@ -81,24 +81,29 @@ I created some initial visualization for AHS 2021 data with R and will further d
 House quality:
 
 House value comparison:
+
 ![Screenshot 2024-11-18 at 01 51 36](https://github.com/user-attachments/assets/cd926d14-9261-4da6-97ec-6c3647e6877a)
 ![Screenshot 2024-11-18 at 01 51 23](https://github.com/user-attachments/assets/fd748c26-ac6e-4027-ad09-47b6b554fc44)
 
 House year comparison (same visualization across other housing quality metrics, such as number of rooms, unitsize, house adequacy, etc.):
+
 ![Screenshot 2024-11-18 at 01 53 38](https://github.com/user-attachments/assets/36087dd0-c3c0-4a5d-95e5-1f2c45e2266f)
 ![Screenshot 2024-11-18 at 01 53 29](https://github.com/user-attachments/assets/b723e226-85dd-41a6-8b83-b654a1756d48)
 ![Screenshot 2024-11-18 at 01 54 30](https://github.com/user-attachments/assets/40b8db77-bcf1-46c8-ac2f-d13c9515bc33)
 
 Community quality:
+
 ![Screenshot 2024-11-18 at 01 57 12](https://github.com/user-attachments/assets/6f92e598-b2b5-4723-9431-34b380067991)
 ![Screenshot 2024-11-18 at 01 56 50](https://github.com/user-attachments/assets/6ffaa640-23ae-4f6c-b585-4efeb3ab7033)
 ![Screenshot 2024-11-18 at 01 56 57](https://github.com/user-attachments/assets/c7db765b-21d1-43d5-89e4-23e1cfd746b3)
 ![Screenshot 2024-11-18 at 01 57 03](https://github.com/user-attachments/assets/227274cf-8da3-4623-9d05-829feb30e667)
 
 Demographic metrics and their relationship with housing/community quality:
+
 ![Screenshot 2024-11-18 at 01 58 17](https://github.com/user-attachments/assets/70e5dc7f-4ec3-4909-8e1e-48a39cbc98df)
 ![Screenshot 2024-11-18 at 01 58 56](https://github.com/user-attachments/assets/22a0be3f-72fa-40b8-856a-aa22ff51d6fd)
 ![Screenshot 2024-11-18 at 01 59 06](https://github.com/user-attachments/assets/3b5bcacb-9fff-4b05-b499-79c0b9eaaf92)
+
 ...
 
 # The data
@@ -110,7 +115,14 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+| American Housing Survey     | https://www.census.gov/programs-surveys/ahs/data.html?text-list-0ff840ba34%3Atab=2023#text-list-0ff840ba34    |  The American Housing Survey (AHS) is sponsored by the Department of Housing and Urban Development (HUD) and conducted by the U.S. Census Bureau. The survey has been the most comprehensive national housing survey in the United States since its inception in 1973, providing current information on the size, composition, and quality of the nation’s housing and measuring changes in our housing stock as it ages. The AHS is a longitudinal housing unit survey conducted biennially in odd-numbered years, with samples redrawn in 1985 and 2015 .
+
+The survey provides up-to-date information about the quality and cost of housing in the United States and major metropolitan areas. The survey also includes questions about:
+
+the physical condition of homes and neighborhoods,
+the costs of financing and maintaining homes, and
+the characteristics of people who live in these homes.
+Planners, policy makers, and community stakeholders use the results of the AHS to assess the housing needs of communities and the country.  These statistics inform decisions that affect the housing opportunities for people of all income levels, ages, and racial and ethnic groups.           |
 |      |     |             |
 |      |     |             |
 
