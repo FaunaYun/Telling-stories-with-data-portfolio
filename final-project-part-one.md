@@ -1,9 +1,8 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one)](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Part I : Social Mobility and Housing Inequality in California's Major Metropolitan Areas
+
+web link: https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-one
  
 In the complex tapestry of social mobility, housing stands as both a mirror reflecting societal inequalities and a mechanism for generational advancement. The American Housing Survey data offers a unique window into this dynamic, revealing how housing conditions intersect with educational attainment, citizenship status, and economic opportunity. 
 
