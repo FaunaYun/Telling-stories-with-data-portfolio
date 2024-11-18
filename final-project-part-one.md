@@ -12,7 +12,8 @@ I picked two regions, Los Angeles-Long Beach-Anaheim and San Francisco-Oakland-H
 The analysis might reveal a nuanced story where factors such as education level and citizenship status not only correlate with housing quality but also interact with regional characteristics to create diverse mobility trajectories. By examining variables ranging from basic housing adequacy to neighborhood satisfaction, this study illuminates how housing conditions serve as both indicators and determinants of social mobility, offering insights into the complex relationship between residential circumstances and socioeconomic advancement in contemporary urban California.
 
 > A project structure
-> Target Audience Personas
+
+> Target Audience 
 
 1. Policy Makers
 
@@ -26,7 +27,28 @@ The analysis might reveal a nuanced story where factors such as education level 
  Goal: Identify patterns and trends
  Challenge: Accessing comprehensive data analysis
 
+> Story Arc
+Setup (Context & Background):
 
+Introduction to housing's role in social mobility; Key metrics and methodology explanation
+
+Rising Action (Initial Findings):
+
+Basic housing conditions comparison; Initial demographic patterns
+
+Conflict/Tension (Core Analysis):
+
+Education-housing quality gap; Citizenship status disparities; Regional opportunity differences, etc.
+
+Climax (Key Insights):
+
+Interaction of education and housing quality; Impact of citizenship on housing outcomes; Regional variation in mobility pathways, etc.
+
+Resolution (Implications):
+
+Policy recommendations; Future research directions; Call to action
+
+>
 Text here...
 
 ## Initial sketches
