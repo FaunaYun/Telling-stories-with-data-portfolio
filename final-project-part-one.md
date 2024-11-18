@@ -122,4 +122,5 @@ Text here...
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+I will use Tableau as my main tool for data visualization and shorthand to create attractive overall visualization that combines background knowledge and pictures to illustrate how this dataset reveal the social mobility through the lens of housing in two major CA metro areas.
+
