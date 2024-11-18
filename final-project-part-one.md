@@ -11,7 +11,26 @@ I picked two regions, Los Angeles-Long Beach-Anaheim and San Francisco-Oakland-H
 
 The analysis might reveal a nuanced story where factors such as education level and citizenship status not only correlate with housing quality but also interact with regional characteristics to create diverse mobility trajectories. By examining variables ranging from basic housing adequacy to neighborhood satisfaction, this study illuminates how housing conditions serve as both indicators and determinants of social mobility, offering insights into the complex relationship between residential circumstances and socioeconomic advancement in contemporary urban California.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+> A project structure
+> Target Audience Personas
+
+Policy Makers
+
+ Need: Understanding housing inequality patterns
+ Goal: Develop effective housing policies
+ Challenge: Balancing multiple stakeholder interests
+
+Urban Researchers
+
+ Need: Data-driven insights about housing and mobility
+ Goal: Identify patterns and trends
+ Challenge: Accessing comprehensive data analysis
+
+Housing Advocates
+
+ Need: Evidence for advocacy
+ Goal: Promote housing equity
+ Challenge: Making complex data accessible
 
 Text here...
 
