@@ -3,10 +3,13 @@
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+# Part I : Social Mobility and Housing Inequality in California's Major Metropolitan Areas
  
-Text here...
+In the complex tapestry of social mobility, housing stands as both a mirror reflecting societal inequalities and a mechanism for generational advancement. The American Housing Survey data offers a unique window into this dynamic, revealing how housing conditions intersect with educational attainment, citizenship status, and economic opportunity. 
+
+I picked two regions, Los Angeles-Long Beach-Anaheim and San Francisco-Oakland-Hayward, representing California's largest urban centers, showcase distinct patterns in how housing quality, neighborhood characteristics, and resident satisfaction vary across different social groups. As cities grapple with questions of equity and opportunity, understanding these housing patterns becomes crucial for identifying pathways to upward mobility. 
+
+The analysis might reveal a nuanced story where factors such as education level and citizenship status not only correlate with housing quality but also interact with regional characteristics to create diverse mobility trajectories. By examining variables ranging from basic housing adequacy to neighborhood satisfaction, this study illuminates how housing conditions serve as both indicators and determinants of social mobility, offering insights into the complex relationship between residential circumstances and socioeconomic advancement in contemporary urban California.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
