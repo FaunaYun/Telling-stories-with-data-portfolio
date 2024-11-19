@@ -102,6 +102,9 @@ Demographic metrics and their relationship with housing/community quality:
 ![Screenshot 2024-11-18 at 01 58 17](https://github.com/user-attachments/assets/70e5dc7f-4ec3-4909-8e1e-48a39cbc98df)
 ![Screenshot 2024-11-18 at 01 58 56](https://github.com/user-attachments/assets/22a0be3f-72fa-40b8-856a-aa22ff51d6fd)
 ![Screenshot 2024-11-18 at 01 59 06](https://github.com/user-attachments/assets/3b5bcacb-9fff-4b05-b499-79c0b9eaaf92)
+![Screenshot 2024-11-18 at 01 58 56](https://github.com/user-attachments/assets/67141a0c-3106-4b8f-8278-46048a201f72)
+![Screenshot 2024-11-18 at 01 59 06](https://github.com/user-attachments/assets/b25ec3f3-d427-4117-8ed6-0c888d52099d)
+
 
 ...
 
