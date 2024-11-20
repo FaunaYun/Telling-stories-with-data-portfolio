@@ -105,6 +105,8 @@ Demographic metrics and their relationship with housing/community quality:
 ![Screenshot 2024-11-18 at 01 59 21](https://github.com/user-attachments/assets/061eff6c-4a46-4bce-9960-ca3425876a29)
 ![Screenshot 2024-11-18 at 01 59 28](https://github.com/user-attachments/assets/331fa506-b6ff-4680-9c61-b9168d3b545b)
 
+I'll also create correlation metrics of housing quality metrics and demographic factors.
+
 ...
 
 # The data
