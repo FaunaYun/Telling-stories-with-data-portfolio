@@ -13,6 +13,13 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+Key findings:
+1. Education and income appear to be the strongest predictors of housing quality and size. Education shows moderate positive correlations with several housing characteristics: Household Income (0.319); Unit Size (0.319); Rooms (0.291). This suggests that higher education levels are associated with better housing conditions overall. Household Income demonstrates moderate positive correlations with: Value (0.322); Rooms (0.288); Unit Size (0.265). This indicates that higher income households tend to live in larger, more valuable properties.
+2. Citizenship status has surprisingly little influence on housing conditions.
+3. Good Schools and Overall Opinion (0.233): Areas with good schools are somewhat positively correlated with better overall neighborhood opinions.
+4. Neighborhoods coded as having serious crime (1) tend to be rated lower in overall opinion. Crime and Overall Opinion (-0.261) is one of the strongest negative correlations in the matrix. This suggests that the presence of serious crime has a meaningful negative impact on how residents view their neighborhood. Overall, crime has the strongest negative impact on neighborhood perception.
+6. However, most correlations(including the demographic factors of house occupants and the neighborhood condition matrics) are relatively weak (below 0.4), indicating that neighborhood characteristics are fairly independent of each other and complex in their relationships.
+
 # User research 
 
 ## Target audience
