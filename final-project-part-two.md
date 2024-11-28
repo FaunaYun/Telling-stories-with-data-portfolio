@@ -53,7 +53,7 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+| Audience interest  |  What do you care about the most in  |
 |      |                  |
 |      |                  |
 
