@@ -13,6 +13,19 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+Drawing from the American Housing Survey (AHS), the nation's most comprehensive housing dataset since 1973, this analysis examines how housing conditions intersect with social mobility in California's major urban centers: Los Angeles-Long Beach-Anaheim and San Francisco-Oakland-Hayward, which can represent the overview of the state. Through correlation analyses of housing quality, neighborhood characteristics, and demographic factors, we can uncover patterns that illuminate the complex relationship between housing conditions and social advancement opportunities across different population groups. Our visualization of these relationships through correlation matrices reveals both challenges and opportunities in creating more equitable housing access in California's metropolitan areas.
+
+The first two dashboards are the overview of the housing conditions and neighborhood qualities to give audience a general understanding of the two regions' housing conditions. 
+
+The third dashboard is the correlation matrix between housing condtion metrics and demographic factors of house occupants.
+
+4th - 6th dashboards are specific visualization of the correlation between demographic factors ( education, citizenship, household income) and house value, which is the strongest and most direct indicator of house conditions.
+
+7th dashboard is the correlation matrix between neighborhood quality metrics and demographic factors of house occupants. 
+
+8th - 9th dashboard are the specific visualization of the relationship between two representative demographic metrics (citizenship and education) and overall opinion of the neighborhoods.
+
+
 Key findings:
 1. Education and income appear to be the strongest predictors of housing quality and size. Education shows moderate positive correlations with several housing characteristics: Household Income (0.319); Unit Size (0.319); Rooms (0.291). This suggests that higher education levels are associated with better housing conditions overall. Household Income demonstrates moderate positive correlations with: Value (0.322); Rooms (0.288); Unit Size (0.265). This indicates that higher income households tend to live in larger, more valuable properties.
 2. Citizenship status has surprisingly little influence on housing conditions.
