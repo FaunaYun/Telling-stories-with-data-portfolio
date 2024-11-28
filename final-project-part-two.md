@@ -16,9 +16,15 @@
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+Policy Makers
+Need: Understanding housing inequality patterns Goal: Develop effective housing policies Challenge: Balancing multiple stakeholder interests
+
+Urban Researchers
+Need: Data-driven insights about housing and mobility Goal: Identify patterns and trends Challenge: Accessing comprehensive data analysis
+
+Housing stands as a crucial indicator and driver of social mobility in America's urban policy landscapes, serving as both a mirror of existing social inequalities. For policy makers, understanding the intricate relationships between housing conditions, demographic factors, and neighborhood quality is essential for developing effective policies that promote equitable access to quality housing. For researchers, these patterns offer valuable insights into how housing intersects with education, income, and citizenship status to shape mobility outcomes. By examining how housing conditions correlate with various social and economic factors, this analysis aims to inform both practical policy solutions and theoretical frameworks for understanding social mobility. The findings are particularly relevant as cities grapple with persistent challenges in housing affordability, quality, and access, making this research an integral part of the broader conversation about creating more equitable environments.
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
