@@ -53,9 +53,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Audience interest  |  What do you care about the most in  |
-|      |                  |
-|      |                  |
+| Audience interest |What do you care about the most in factors that potentially affect housing quality? |
+| Feedback on the storyline    |What do you think of the current structure of the story? |
+| Feedback on visualization     |Any suggestions on the current visualizaitions? |
 
 
 Text here!
@@ -67,9 +67,9 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| What do you care about the most in factors that potentially affect housing quality? | Income level, as it is a very direct indicator of social class and is well quantified. | Citizenship, because California is a state with a lot of immigrants, so whether or not they get legal status may be related to their general social status.| Educational level, a homeowner's level of education may influence its preference when choosing a neighborhood, for example, someone with a high level of education may choose a neighborhood with good public schools. |
+|What do you think of the current structure of the story? | Probably not as relevant to social mobility as housing is just one of the small factors that affect this. | The story line may not be as full as it could be, as it mainly only explores the possible correlation of demographic factors with housing quality.| The correlation is not that significant, so it's hard to draw very direct conclusions. |
+|Any suggestions on the current visualizaitions? |  Could make the fonts and colors a bit more aesthetically pleasing and uniform| The type of visualization is rather basic and could be a bit more fancy.| A visualisation of the relationship between household income and neighbourhood opinion could be added to the analysis of neighbourhood quality to stay consistent with first part (housing conditions analysis)|
 
 
 # Identified changes for Part III
