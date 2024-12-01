@@ -79,7 +79,7 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| Findings or observations from interviews | Continuing to develop and elaborate on my storyline. Doing more research on the topic. Adding concluding visualization. |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
@@ -89,8 +89,4 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
