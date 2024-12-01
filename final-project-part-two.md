@@ -82,8 +82,7 @@ Text here!
 | Findings or observations from interviews | Continuing to develop and elaborate on my storyline. Doing more research on the topic. |
 |                                          | Adding concluding visualization.  |
 |                                          | Adding more explanatory text.|
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+                                                     
 
 > ...include any final thoughts you have here. 
 
