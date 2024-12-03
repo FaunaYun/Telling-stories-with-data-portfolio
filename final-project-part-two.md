@@ -15,15 +15,15 @@
 
 Drawing from the American Housing Survey (AHS), the nation's most comprehensive housing dataset since 1973, this analysis examines how housing conditions intersect with social mobility in California's major urban centers: Los Angeles-Long Beach-Anaheim and San Francisco-Oakland-Hayward, which can represent the overview of the state. Through correlation analyses of housing quality, neighborhood characteristics, and demographic factors, we can uncover patterns that illuminate the complex relationship between housing conditions and social advancement opportunities across different population groups. Our visualization of these relationships through correlation matrices reveals both challenges and opportunities in creating more equitable housing access in California's metropolitan areas.
 
-The first two dashboards are the overview of the housing conditions and neighborhood qualities to give audience a general understanding of the two regions' housing conditions. 
+1. The first two dashboards are the overview of the housing conditions and neighborhood qualities to give audience a general understanding of the two regions' housing conditions. 
 
-The third dashboard is the correlation matrix between housing condtion metrics and demographic factors of house occupants.
+2. The third dashboard is the correlation matrix between housing condtion metrics and demographic factors of house occupants.
 
-4th - 6th dashboards are specific visualization of the correlation between demographic factors ( education, citizenship, household income) and house value, which is the strongest and most direct indicator of house conditions.
+3. 4th - 6th dashboards are specific visualization of the correlation between demographic factors ( education, citizenship, household income) and house value, which is the strongest and most direct indicator of house conditions.
 
-7th dashboard is the correlation matrix between neighborhood quality metrics and demographic factors of house occupants. 
+4. 7th dashboard is the correlation matrix between neighborhood quality metrics and demographic factors of house occupants. 
 
-8th - 9th dashboard are the specific visualization of the relationship between two representative demographic metrics (citizenship and education) and overall opinion of the neighborhoods.
+5. 8th - 9th dashboard are the specific visualization of the relationship between two representative demographic metrics (citizenship and education) and overall opinion of the neighborhoods.
 
 
 Key findings:
