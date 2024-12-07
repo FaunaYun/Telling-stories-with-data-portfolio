@@ -14,12 +14,14 @@
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+Transitioning from part 2 to part 3, The main change I've made is still to allow for the addition of more explanatory text for each dashboard to help the audience understand more about the data and also the background context. For housing and neighborhood overview dashboards, I've added some concluding bullet points on the side to highlight a few key characteristics. For the correlation matrix, I've summarized the findings from the matrix about the correlations and how to interpret them in the context of social mobility. To validate the conclusions from the correlation matrix, I've added some graphs to explore further the possible relationships between some variables, such as household income and education level of house occupants, as it might indirectly support the correlation between education level and house value. 
+
+Meanwhile, I also improved some visual elements, such as making the color pallet more harmonious and adding reference lines to make the visual features stand out. To make this visualization tool easier to read and use, I've added content with some specifications on each dashboard in front of all the dashboards. Also, I added a 'call to action' and two pictures on the last page to finalize and conclude the whole data visualization story.
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
