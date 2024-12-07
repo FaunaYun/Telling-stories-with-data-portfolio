@@ -21,7 +21,10 @@ Meanwhile, I also improved some visual elements, such as making the color pallet
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
+The final audience I chose is policymakers and urban researchers as 
+housing is one of the most crucial indicators and drivers of social mobility, serving as a mirror of existing social inequalities. For policymakers, understanding the intricate relationships between housing conditions, demographic factors, and neighborhood quality is essential for developing effective policies that promote equitable access to quality housing. For researchers, these patterns offer valuable insights into how housing intersects with education, income, and citizenship status to shape mobility outcomes. By examining how housing conditions correlate with various social and economic factors, this analysis aims to inform both practical policy solutions and theoretical frameworks for understanding social mobility. 
 
+In order to make these people understand more about this data story, I've added more explanatory text and concluding 'Call to action' to suggest the direction for feature policy making.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
