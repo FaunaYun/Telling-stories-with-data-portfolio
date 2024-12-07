@@ -1,4 +1,4 @@
-| [home page](https://faunayun.github.io/tswd-portfolio-templates/) | [visualizing debt]( https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt) | [critique-by-design](https://faunayun.github.io/Telling-stories-with-data-portfolio/) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://faunayun.github.io/Telling-stories-with-data-portfolio/) | [visualizing debt](https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt) | [critique-by-design](https://faunayun.github.io/Telling-stories-with-data-portfolio/critique-by-design) | [final project I](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-one) | [final project II](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-two)| [final project III](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-three) |
 
 # Critique by Design with Tableau
 Web link: https://faunayun.github.io/Telling-stories-with-data-portfolio/critique-by-design
