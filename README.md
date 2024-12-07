@@ -25,6 +25,6 @@ Hi!  My name is Yun Zeng (she/her), a current 2nd year MSPPM student at CMU. I h
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-one)
+[Part II](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-two)
+[Part III](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-three)
