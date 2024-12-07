@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://faunayun.github.io/Telling-stories-with-data-portfolio/) | [visualizing debt](https://faunayun.github.io/Telling-stories-with-data-portfolio/visualizing-government-debt) | [critique-by-design](https://faunayun.github.io/Telling-stories-with-data-portfolio/critique-by-design) | [final project I](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-one) | [final project II](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-two)| [final project III](https://faunayun.github.io/Telling-stories-with-data-portfolio/final-project-part-three) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
